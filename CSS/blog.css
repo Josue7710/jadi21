@@ -1,0 +1,39 @@
+#bienvenidos{
+    text-align: center;
+    margin: 10px;
+    text-align: justify;
+}
+#bienvenidos{
+    padding: 30px;
+    
+}
+
+#blog{
+    padding: 50px;
+}
+
+#blog h2{
+    text-align: center;
+}
+
+#blog .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#blog article{
+    margin: 15px;
+}
+
+#blog img{
+    width: 100%;
+    max-width: 280px;
+}
+.contenedor .planta{
+    height: 320px;
+    width: 220px;
+}
+.contenedor h4{
+    text-align: center;
+}
